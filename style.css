@@ -1,0 +1,18 @@
+
+.card{
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.card-img-top{
+    padding: 5%;
+}
+h5{
+    text-align: center;
+    margin-bottom: 2%;
+}
+p{
+    text-align: center;
+}
